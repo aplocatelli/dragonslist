@@ -1,0 +1,36 @@
+.form {
+    display: block;
+    width: 100%;
+}
+
+.form form {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.form form input {
+    display: block;
+    width: 100%;
+    margin-bottom: 30px;
+    height: 50px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.form form button {
+    padding: 15px 40px;
+    background-color: forestgreen;
+    box-shadow: none;
+    border: none;
+    font-weight: bold;
+    color: #fff;
+    font-size: 16px;
+    background-color: darkslategray;
+    transition: background-color .2s ease-in-out;
+    cursor: pointer;
+}
+
+.form form button:hover {
+    background-color: darkgreen;
+}
