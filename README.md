@@ -1,3 +1,3 @@
 # Dragonlist 
 
-Just a list of Dragons
+Just a list of Dragons made with React.
